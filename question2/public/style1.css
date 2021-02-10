@@ -1,0 +1,10 @@
+.float-left {
+
+    float : left;
+}
+.box{
+    height: 70px;
+    width: 50px;
+    border : 1px solid;
+    margin : 0 10px
+}
